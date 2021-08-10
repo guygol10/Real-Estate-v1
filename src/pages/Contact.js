@@ -1,8 +1,8 @@
 import React from 'react'
 import Features from '../components/Features';
 
-const About = () => {
+const Contact = () => {
   return <Features />;
 }
 
-export default About
+export default Contact
